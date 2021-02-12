@@ -58,11 +58,4 @@ Previous SOTA:
  
 * [DYGIE](https://www.aclweb.org/anthology/N19-1308/) for ACE 2004.
 * [Seq2Seq-BERT](https://www.aclweb.org/anthology/P19-1527/) for ACE 2005 and GENIA.
-* [ARN](https://www.aclweb.org/anthology/P19-1511/) for KBP2017. 
-
-## Dependencies 
-
-* Experiments are conducted on a Ubuntu GPU server with Python 3.6.  <br> 
-Run `pip3 install -r requirements.txt`to install packages dependencies.
-
-* Download and unzip `BERT-Base, Uncased English` and `BERT-Base, Chinese` pretrained checkpoints. Then follow the [guideline](https://huggingface.co/transformers/v2.5.0/converting_tensorflow_models.html) from huggingface to convert TF checkpoints to PyTorch. 
+* [ARN](https://www.aclweb.org/anthology/P19-1511/) for KBP2017.  
